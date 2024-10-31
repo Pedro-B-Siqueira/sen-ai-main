@@ -36,7 +36,7 @@ SEN.AI é um sistema de análise de peças baseado em inteligência artificial, 
 ## Configuração e Instalação
 
 1. Clone o repositório
-2. Instale as dependências: `pip install -r requirements.txt`
+2. Instale as dependências: `pip install -r req.txt`
 3. Configure o banco de dados: `python manage.py migrate`
 4. Inicie o servidor: `python manage.py runserver`
 
